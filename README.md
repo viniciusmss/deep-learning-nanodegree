@@ -8,3 +8,10 @@ Most importantly, the projects noted below were executed more independently than
 - [Dog Breed Classifier](https://github.com/viniciusmss/deep-learning-nanodegree/tree/master/project-dog-classification): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
 - [TV Script Generation](https://github.com/viniciusmss/deep-learning-nanodegree/tree/master/project-face-generation): Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
 - [Face Generation](https://github.com/viniciusmss/deep-learning-nanodegree/tree/master/project-tv-script-generation): Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
+
+Pre-requisites
+--------------
+
+- Python 3.6
+- [PyTorch and Torchvision](https://pytorch.org/get-started/locally/)
+- All else in requirements.txt
